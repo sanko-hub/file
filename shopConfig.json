@@ -2172,12 +2172,12 @@
 		},
 		{
 			"id": "pumpkinHelmet",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
-				"startMonth": 10,
-				"endDay": 1,
-				"endMonth": 11
+				"startMonth": 1,
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"hasRewardedAd": true,
 			"maleSkin": {
@@ -2282,10 +2282,10 @@
 		},
 		{
 			"id": "christmasTreeHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
-				"startMonth": 12,
+				"startMonth": 1,
 				"endDay": 31,
 				"endMonth": 12
 			},
@@ -2305,10 +2305,10 @@
 		},
 		{
 			"id": "christmasSnowmanHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
-				"startMonth": 12,
+				"startMonth": 1,
 				"endDay": 31,
 				"endMonth": 12
 			},
@@ -2328,10 +2328,10 @@
 		},
 		{
 			"id": "christmasClothingHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
-				"startMonth": 12,
+				"startMonth": 1,
 				"endDay": 31,
 				"endMonth": 12
 			},
@@ -2350,10 +2350,10 @@
 		},
 		{
 			"id": "christmasClothingPants",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
-				"startMonth": 12,
+				"startMonth": 1,
 				"endDay": 31,
 				"endMonth": 12
 			},
@@ -2386,10 +2386,10 @@
 		},
 		{
 			"id": "christmasClothingBoots",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
-				"startMonth": 12,
+				"startMonth": 1,
 				"endDay": 31,
 				"endMonth": 12
 			},
@@ -2701,12 +2701,12 @@
 		},
 		{
 			"id": "happyNewYearPeasantHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
-				"endDay": 7,
-				"endMonth": 1
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"maleSkin": {
 				"additions": {
@@ -2723,12 +2723,12 @@
 		},
 		{
 			"id": "happyNewYearChainHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
-				"endDay": 7,
-				"endMonth": 1
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"hasRewardedAd": true,
 			"maleSkin": {
@@ -2746,12 +2746,12 @@
 		},
 		{
 			"id": "happyNewYearBucketHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
-				"endDay": 7,
-				"endMonth": 1
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"hasRewardedAd": true,
 			"maleSkin": {
@@ -2769,10 +2769,10 @@
 		},
 		{
 			"id": "happyNewYearPeasantHatEndOfTheYear",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 30,
-				"startMonth": 12,
+				"startDay": 1,
+				"startMonth": 1,
 				"endDay": 31,
 				"endMonth": 12
 			},
@@ -2945,12 +2945,12 @@
 		},
 		{
 			"id": "chineseNewYearHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 20,
+				"startDay": 1,
 				"startMonth": 1,
-				"endDay": 29,
-				"endMonth": 1
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"maleSkin": {
 				"additions": {
@@ -3123,12 +3123,12 @@
 		},
 		{
 			"id": "cupidoValentinesday",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 13,
-				"startMonth": 2,
-				"endDay": 15,
-				"endMonth": 2
+				"startDay": 1,
+				"startMonth": 1,
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"hasRewardedAd": true,
 			"maleSkin": {
@@ -4304,12 +4304,12 @@
 		},
 		{
 			"id": "StPatricksDayHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 16,
-				"startMonth": 3,
-				"endDay": 18,
-				"endMonth": 3
+				"startDay": 1,
+				"startMonth": 1,
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"hasRewardedAd": true,
 			"maleSkin": {
@@ -4461,12 +4461,12 @@
 		},
 		{
 			"id": "aprilFoolsbloodlustBarbarianHelmetHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
-				"startMonth": 4,
-				"endDay": 1,
-				"endMonth": 4
+				"startMonth": 1,
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"maleSkin": {
 				"additions": {
@@ -4609,12 +4609,12 @@
 		},
 		{
 			"id": "easterRabbitHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 16,
-				"startMonth": 4,
-				"endDay": 18,
-				"endMonth": 4
+				"startDay": 1,
+				"startMonth": 1,
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"hasRewardedAd": true,
 			"maleSkin": {
@@ -4632,12 +4632,12 @@
 		},
 		{
 			"id": "narrowOneBirthdayHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 11,
-				"startMonth": 5,
-				"endDay": 11,
-				"endMonth": 5
+				"startDay": 1,
+				"startMonth": 1,
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"maleSkin": {
 				"additions": {
@@ -4655,12 +4655,12 @@
 		},
 		{
 			"id": "narrowOneBirthdayBody",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 11,
-				"startMonth": 5,
-				"endDay": 11,
-				"endMonth": 5
+				"startDay": 1,
+				"startMonth": 1,
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"maleSkin": {
 				"additions": {
@@ -6672,10 +6672,10 @@
 		},
 		{
 			"id": "mediumBowXmasTip",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 15,
-				"startMonth": 12,
+				"startDay": 1,
+				"startMonth": 1,
 				"endDay": 31,
 				"endMonth": 12
 			},
@@ -6689,10 +6689,10 @@
 		},
 		{
 			"id": "mediumBowXmasHandle",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 15,
-				"startMonth": 12,
+				"startDay": 1,
+				"startMonth": 1,
 				"endDay": 31,
 				"endMonth": 12
 			},
@@ -6706,11 +6706,11 @@
 		},
 		{
 			"id": "mediumBowTournament1WinnerHandle",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
 				"startDay": 1,
-				"startMonth": 12,
-				"endDay": 1,
+				"startMonth": 1,
+				"endDay": 31,
 				"endMonth": 12
 			},
 			"price": 999999,
@@ -7827,12 +7827,12 @@
 		},
 		{
 			"id": "chineseNewYearRabbitHat",
-
+			"shopVisibility": "seasonal",
 			"seasonalRange": {
-				"startDay": 20,
+				"startDay": 1,
 				"startMonth": 1,
-				"endDay": 29,
-				"endMonth": 1
+				"endDay": 31,
+				"endMonth": 12
 			},
 			"hasRewardedAd": true,
 			"maleSkin": {
