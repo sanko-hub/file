@@ -2329,6 +2329,7 @@
 		{
 			"id": "christmasClothingHat",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -2351,6 +2352,7 @@
 		{
 			"id": "christmasClothingPants",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -2387,6 +2389,7 @@
 		{
 			"id": "christmasClothingBoots",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -2702,6 +2705,7 @@
 		{
 			"id": "happyNewYearPeasantHat",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -2724,6 +2728,7 @@
 		{
 			"id": "happyNewYearChainHat",
 			"shopVisibility": "seasonal",
+      
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -2770,6 +2775,7 @@
 		{
 			"id": "happyNewYearPeasantHatEndOfTheYear",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -2946,6 +2952,7 @@
 		{
 			"id": "chineseNewYearHat",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -3124,6 +3131,7 @@
 		{
 			"id": "cupidoValentinesday",
 			"shopVisibility": "seasonal",
+      
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -4462,6 +4470,7 @@
 		{
 			"id": "aprilFoolsbloodlustBarbarianHelmetHat",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -4633,6 +4642,7 @@
 		{
 			"id": "narrowOneBirthdayHat",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -4656,6 +4666,7 @@
 		{
 			"id": "narrowOneBirthdayBody",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
@@ -6707,6 +6718,7 @@
 		{
 			"id": "mediumBowTournament1WinnerHandle",
 			"shopVisibility": "seasonal",
+      "hasRewardedAd": true,
 			"seasonalRange": {
 				"startDay": 1,
 				"startMonth": 1,
