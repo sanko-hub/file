@@ -13044,7 +13044,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 2
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13079,7 +13079,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 3,
+        "meleeAttackSpeed": 9,
         "meleeAttackStrength": 2
       }
     },
@@ -13097,7 +13097,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 4,
+        "meleeAttackSpeed": 9,
         "meleeAttackStrength": 1
       }
     },
@@ -13114,7 +13114,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 5
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13131,7 +13131,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 1,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2,
         "meleeAttackStrength": 2
       }
@@ -13150,7 +13150,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 1,
+        "meleeAttackSpeed": 9,
         "meleeAttackStrength": 3
       }
     },
@@ -13168,7 +13168,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 1,
         "meleeAttackStrength": 2
       }
@@ -13189,7 +13189,7 @@
       "statClasses": {
         "meleeAttackReach": 2,
         "meleeAttackStrength": 2,
-        "meleeAttackSpeed": 1
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13206,7 +13206,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 3,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 1,
         "meleeAttackStrength": 1
       }
@@ -13226,7 +13226,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 2,
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 1
       }
     },
@@ -13280,7 +13280,7 @@
         "meleeBlunt"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 2
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13298,7 +13298,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 2,
-        "meleeAttackSpeed": 2
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13317,7 +13317,7 @@
       "statClasses": {
         "meleeAttackStrength": 3,
         "meleeAttackReach": 1,
-        "meleeAttackSpeed": 1
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13336,7 +13336,7 @@
       "statClasses": {
         "meleeAttackStrength": 2,
         "meleeAttackReach": 2,
-        "meleeAttackSpeed": 1
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13354,7 +13354,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 3,
-        "meleeAttackSpeed": 2
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13372,7 +13372,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 2,
-        "meleeAttackSpeed": 3
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13407,7 +13407,7 @@
         "meleeBlunt"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 3,
+        "meleeAttackSpeed": 9,
         "meleeAttackStrength": 1,
         "meleeAttackReach": 1
       }
@@ -13426,7 +13426,7 @@
         "meleeBlunt"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 3,
+        "meleeAttackSpeed": 9,
         "meleeAttackStrength": 2
       }
     },
@@ -13446,7 +13446,7 @@
       "statClasses": {
         "meleeAttackStrength": 2,
         "meleeAttackReach": 2,
-        "meleeAttackSpeed": 1
+        "meleeAttackSpeed": 9
       }
     },
     {
@@ -13464,7 +13464,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 3,
-        "meleeAttackSpeed": 1,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 1
       }
     },
@@ -13498,7 +13498,7 @@
         "meleePoke"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 1,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 1
       }
     },
@@ -13516,7 +13516,7 @@
         "meleePoke"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackStrength": 3
       }
     },
@@ -13534,7 +13534,7 @@
         "meleePoke"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 1,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2,
         "meleeAttackStrength": 2
       }
@@ -13552,7 +13552,7 @@
         "meleePoke"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2
       }
     },
@@ -13588,7 +13588,7 @@
         "meleePoke"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2,
         "meleeAttackStrength": 1
       }
@@ -13608,7 +13608,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 2,
-        "meleeAttackSpeed": 1,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2
       }
     },
@@ -13644,7 +13644,7 @@
         "meleeBladed"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2
       }
     },
@@ -13662,7 +13662,7 @@
         "meleeBlunt"
       ],
       "statClasses": {
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2
       }
     },
@@ -13717,7 +13717,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 2,
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2
       }
     },
@@ -13736,7 +13736,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 2,
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2
       }
     },
@@ -13755,7 +13755,7 @@
       ],
       "statClasses": {
         "meleeAttackStrength": 2,
-        "meleeAttackSpeed": 2,
+        "meleeAttackSpeed": 9,
         "meleeAttackReach": 2
       }
     }
