@@ -2,7 +2,7 @@
   "purchasableItems": [
     {
       "id": "basicArmorHelmet",
-      "price": 200,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -72,7 +72,7 @@
     },
     {
       "id": "basicArmorBody",
-      "price": 290,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -177,7 +177,7 @@
     },
     {
       "id": "basicArmorArms",
-      "price": 100,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -364,7 +364,7 @@
     },
     {
       "id": "basicArmorHands",
-      "price": 50,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "handArmL": [
@@ -468,7 +468,7 @@
     },
     {
       "id": "basicArmorLegs",
-      "price": 80,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -673,7 +673,7 @@
     },
     {
       "id": "basicArmorFeet",
-      "price": 60,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -806,7 +806,7 @@
     },
     {
       "id": "basicArmorQuiver",
-      "price": 150,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -876,7 +876,7 @@
     },
     {
       "id": "romanArmorHelmet",
-      "price": 420,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -900,7 +900,7 @@
     },
     {
       "id": "romanArmorBody",
-      "price": 440,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -959,7 +959,7 @@
     },
     {
       "id": "romanArmorWristBrace",
-      "price": 50,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -989,7 +989,7 @@
     },
     {
       "id": "romanArmorSandles",
-      "price": 80,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -1035,7 +1035,7 @@
     },
     {
       "id": "commonerColorfulHat",
-      "price": 150,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -1059,7 +1059,7 @@
     },
     {
       "id": "commonerColorfulBody",
-      "price": 250,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "commonerColorfulSleaves",
-      "price": 80,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -1153,7 +1153,7 @@
     },
     {
       "id": "commonerColorfulPants",
-      "price": 120,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -1216,7 +1216,7 @@
     },
     {
       "id": "commonerColorfulFeet",
-      "price": 60,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -1254,7 +1254,7 @@
     },
     {
       "id": "heavyArmorHelmet",
-      "price": 450,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -1278,7 +1278,7 @@
     },
     {
       "id": "heavyArmorBody",
-      "price": 640,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -1313,7 +1313,7 @@
     },
     {
       "id": "heavyArmorUpperArms",
-      "price": 240,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -1384,7 +1384,7 @@
     },
     {
       "id": "heavyArmorGloves",
-      "price": 110,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "handArmL": [
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "heavyArmorLegs",
-      "price": 150,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -1499,7 +1499,7 @@
     },
     {
       "id": "heavyArmorFeet",
-      "price": 90,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -1537,7 +1537,7 @@
     },
     {
       "id": "hunterCap",
-      "price": 100,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -1561,7 +1561,7 @@
     },
     {
       "id": "hunterBody",
-      "price": 320,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -1609,7 +1609,7 @@
     },
     {
       "id": "hunterWrist",
-      "price": 70,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -1639,7 +1639,7 @@
     },
     {
       "id": "hunterQuiver",
-      "price": 290,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -1663,7 +1663,7 @@
     },
     {
       "id": "hunterBoots",
-      "price": 80,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -1722,7 +1722,7 @@
     },
     {
       "id": "hunterPants",
-      "price": 40,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -1788,7 +1788,7 @@
     },
     {
       "id": "jesterHat",
-      "price": 333,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "jesterBody",
-      "price": 333,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -1849,7 +1849,7 @@
     },
     {
       "id": "jesterArms",
-      "price": 333,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -1908,7 +1908,7 @@
     },
     {
       "id": "jesterLegs",
-      "price": 333,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -1971,7 +1971,7 @@
     },
     {
       "id": "jesterFeet",
-      "price": 333,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -2009,7 +2009,7 @@
     },
     {
       "id": "bucketHelmet",
-      "price": 170,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "bucketHelmetKnight",
-      "price": 300,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2057,7 +2057,7 @@
     },
     {
       "id": "bucketHelmetWings",
-      "price": 1250,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2081,7 +2081,7 @@
     },
     {
       "id": "bucketHelmetCrown",
-      "price": 570,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2105,7 +2105,7 @@
     },
     {
       "id": "gladiatorArmorHelmet",
-      "price": 840,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2129,7 +2129,7 @@
     },
     {
       "id": "gladiatorArmorBody",
-      "price": 300,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -2166,7 +2166,7 @@
     },
     {
       "id": "gladiatorArmorUpperArms",
-      "price": 120,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperArmL": [
@@ -2196,7 +2196,7 @@
     },
     {
       "id": "gladiatorArmorHands",
-      "price": 80,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "handArmL": [
@@ -2226,7 +2226,7 @@
     },
     {
       "id": "gladiatorArmorLegs",
-      "price": 120,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -2256,7 +2256,7 @@
     },
     {
       "id": "gladiatorArmorFeet",
-      "price": 80,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -2286,7 +2286,7 @@
     },
     {
       "id": "gladiatorArmoLowerArms",
-      "price": 120,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -2316,7 +2316,7 @@
     },
     {
       "id": "templarKnightHelmet",
-      "price": 2100,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2340,7 +2340,7 @@
     },
     {
       "id": "templarKnightBody",
-      "price": 740,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -2377,7 +2377,7 @@
     },
     {
       "id": "templarKnightArms",
-      "price": 280,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -2472,7 +2472,7 @@
     },
     {
       "id": "templarKnightLegs",
-      "price": 260,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -2547,7 +2547,7 @@
     },
     {
       "id": "templarKnightFeet",
-      "price": 160,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -2593,7 +2593,7 @@
     },
     {
       "id": "featheredHelmet",
-      "price": 340,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2617,7 +2617,7 @@
     },
     {
       "id": "spartanArmorHelmet",
-      "price": 530,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2641,7 +2641,7 @@
     },
     {
       "id": "spartanArmorBody",
-      "price": 620,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -2689,7 +2689,7 @@
     },
     {
       "id": "spartanArmorArms",
-      "price": 390,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -2720,7 +2720,7 @@
     },
     {
       "id": "spartanArmorLegs",
-      "price": 240,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -2750,7 +2750,7 @@
     },
     {
       "id": "spartanArmorSandles",
-      "price": 130,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -2780,7 +2780,7 @@
     },
     {
       "id": "slavicFaceHelmet",
-      "price": 550,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2804,7 +2804,7 @@
     },
     {
       "id": "slavicHelmet",
-      "price": 230,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2828,7 +2828,7 @@
     },
     {
       "id": "samuraiArmorHelmet",
-      "price": 1140,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -2852,7 +2852,7 @@
     },
     {
       "id": "samuraiArmorBody",
-      "price": 1600,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -2889,7 +2889,7 @@
     },
     {
       "id": "samuraiArmorArms",
-      "price": 820,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -2960,7 +2960,7 @@
     },
     {
       "id": "samuraiArmorHands",
-      "price": 440,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "handArmL": [
@@ -3006,7 +3006,7 @@
     },
     {
       "id": "samuraiArmorLegs",
-      "price": 520,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -3081,7 +3081,7 @@
     },
     {
       "id": "samuraiArmorFeet",
-      "price": 280,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -3127,7 +3127,7 @@
     },
     {
       "id": "samuraiArmorQuiver",
-      "price": 360,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -3182,7 +3182,7 @@
     },
     {
       "id": "monkHair",
-      "price": 50,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -3211,7 +3211,7 @@
     },
     {
       "id": "monkArms",
-      "price": 440,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -3307,7 +3307,7 @@
     },
     {
       "id": "monkChain",
-      "price": 40,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "handArmL": [
@@ -3337,7 +3337,7 @@
     },
     {
       "id": "monkSandals",
-      "price": 50,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -3367,7 +3367,7 @@
     },
     {
       "id": "kingCrown",
-      "price": 9999,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -3391,7 +3391,7 @@
     },
     {
       "id": "kingRing",
-      "price": 9999,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "handArmL": [
@@ -3421,7 +3421,7 @@
     },
     {
       "id": "kingBody",
-      "price": 9999,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -3523,7 +3523,7 @@
     },
     {
       "id": "stripedArmorHelmet",
-      "price": 350,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -3547,7 +3547,7 @@
     },
     {
       "id": "stripedArmorBody",
-      "price": 280,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -3596,7 +3596,7 @@
     },
     {
       "id": "stripedArmorHands",
-      "price": 120,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -3655,7 +3655,7 @@
     },
     {
       "id": "stripedArmorLegs",
-      "price": 60,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -3705,7 +3705,7 @@
     },
     {
       "id": "stripedArmorFeet",
-      "price": 80,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -3762,7 +3762,7 @@
     },
     {
       "id": "stripedArmorQuiver",
-      "price": 130,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -3786,7 +3786,7 @@
     },
     {
       "id": "heavySideQuiver",
-      "price": 260,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -3851,7 +3851,7 @@
     },
     {
       "id": "kingBoots",
-      "price": 9999,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -3910,7 +3910,7 @@
     },
     {
       "id": "kingQuiver",
-      "price": 9999,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -3934,7 +3934,7 @@
     },
     {
       "id": "maximusHelmet",
-      "price": 1650,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -3958,7 +3958,7 @@
     },
     {
       "id": "samuraiArmorHelmetHorned",
-      "price": 2420,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -4210,7 +4210,7 @@
     },
     {
       "id": "strawHatWithMask",
-      "price": 210,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -4487,7 +4487,7 @@
     },
     {
       "id": "arabianKnightHelmet",
-      "price": 1750,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -4511,7 +4511,7 @@
     },
     {
       "id": "arabianKnightBody",
-      "price": 2200,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -4615,7 +4615,7 @@
     },
     {
       "id": "arabianKnightBoots",
-      "price": 320,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -4796,7 +4796,7 @@
     },
     {
       "id": "vikingArmorDetailedHelmet",
-      "price": 2150,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -4820,7 +4820,7 @@
     },
     {
       "id": "vikingArmorDetailedWrist",
-      "price": 210,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -4850,7 +4850,7 @@
     },
     {
       "id": "vikingArmorDetailedLegs",
-      "price": 390,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -4909,7 +4909,7 @@
     },
     {
       "id": "vikingHelmet",
-      "price": 660,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -4933,7 +4933,7 @@
     },
     {
       "id": "vikingArmorDetailedBody",
-      "price": 1850,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -5105,7 +5105,7 @@
     },
     {
       "id": "bloodlustBarbarianHat",
-      "price": 100000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -5130,7 +5130,7 @@
     },
     {
       "id": "bloodlustBarbarianBody",
-      "price": 100000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -5204,7 +5204,7 @@
     },
     {
       "id": "bloodlustBarbarianQuiver",
-      "price": 90000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -5229,7 +5229,7 @@
     },
     {
       "id": "bloodlustBarbarianArms",
-      "price": 80000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -5260,7 +5260,7 @@
     },
     {
       "id": "bloodlustBarbarianLegs",
-      "price": 80000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -5291,7 +5291,7 @@
     },
     {
       "id": "bloodlustBarbarianShoes",
-      "price": 70000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -5322,7 +5322,7 @@
     },
     {
       "id": "bloodlustBarbarianGloves",
-      "price": 70000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "handArmL": [
@@ -5934,7 +5934,7 @@
     },
     {
       "id": "moustachRolledWhite",
-      "price": 49,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6198,7 +6198,7 @@
     },
     {
       "id": "miscEyelinerHue",
-      "price": 25,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6222,7 +6222,7 @@
     },
     {
       "id": "miscEyeliner",
-      "price": 25,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6270,7 +6270,7 @@
     },
     {
       "id": "miscEyeLashes",
-      "price": 35,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6294,7 +6294,7 @@
     },
     {
       "id": "miscDragonTattoo",
-      "price": 99,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6319,7 +6319,7 @@
     },
     {
       "id": "miscPaintWar",
-      "price": 35,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6370,7 +6370,7 @@
     },
     {
       "id": "miscPaintRedHand",
-      "price": 35,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6395,7 +6395,7 @@
     },
     {
       "id": "miscPaintLine",
-      "price": 25,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6419,7 +6419,7 @@
     },
     {
       "id": "miscPaintHand",
-      "price": 35,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6467,7 +6467,7 @@
     },
     {
       "id": "miscNoseRing",
-      "price": 15,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6491,7 +6491,7 @@
     },
     {
       "id": "miscRings",
-      "price": 25,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6516,7 +6516,7 @@
     },
     {
       "id": "miscNoseBone",
-      "price": 35,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6540,7 +6540,7 @@
     },
     {
       "id": "miscEarRing",
-      "price": 12,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6735,7 +6735,7 @@
     },
     {
       "id": "kepreshHat",
-      "price": 750,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6759,7 +6759,7 @@
     },
     {
       "id": "anubisMaskHat",
-      "price": 3200,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -6831,7 +6831,7 @@
     },
     {
       "id": "ancientEgyptArmorFeet",
-      "price": 25,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -6861,7 +6861,7 @@
     },
     {
       "id": "ancientEgyptArmorDetailedBody",
-      "price": 860,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -7206,7 +7206,7 @@
     },
     {
       "id": "lostCrown",
-      "price": 2600,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -7230,7 +7230,7 @@
     },
     {
       "id": "flowerShirtBody",
-      "price": 230,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -7306,7 +7306,7 @@
     },
     {
       "id": "flowerShirtLegs",
-      "price": 45,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -7499,7 +7499,7 @@
     },
     {
       "id": "topHat",
-      "price": 5000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -7547,7 +7547,7 @@
     },
     {
       "id": "chainmailArmorBody",
-      "price": 880,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -7822,7 +7822,7 @@
     },
     {
       "id": "aztecOllamalitzliHat",
-      "price": 480,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -7876,7 +7876,7 @@
     },
     {
       "id": "aztecExecutionerHat",
-      "price": 440,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -8006,7 +8006,7 @@
     },
     {
       "id": "aztecWarriorHat",
-      "price": 1600,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -8030,7 +8030,7 @@
     },
     {
       "id": "aztecWarriorBody",
-      "price": 740,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -8080,7 +8080,7 @@
     },
     {
       "id": "aztecWarriorArms",
-      "price": 120,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperArmL": [
@@ -8110,7 +8110,7 @@
     },
     {
       "id": "aztecWarriorWristGuard",
-      "price": 380,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -8140,7 +8140,7 @@
     },
     {
       "id": "aztecWarriorLegs",
-      "price": 380,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -8170,7 +8170,7 @@
     },
     {
       "id": "aztecWarriorFeet",
-      "price": 180,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -8200,7 +8200,7 @@
     },
     {
       "id": "aztecWarriorQuiver",
-      "price": 460,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -8371,7 +8371,7 @@
     },
     {
       "id": "vikingHairSide",
-      "price": 220,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -8592,7 +8592,7 @@
     },
     {
       "id": "largeCrossbowSimpleHandle",
-      "price": 25,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -8608,7 +8608,7 @@
     },
     {
       "id": "largeCrossbowSimpleTip",
-      "price": 25,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -8624,7 +8624,7 @@
     },
     {
       "id": "smallBowSimpleHandle",
-      "price": 25,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -8640,7 +8640,7 @@
     },
     {
       "id": "mediumBowSimpleHandle",
-      "price": 25,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -8656,7 +8656,7 @@
     },
     {
       "id": "largeBowSimpleHandle",
-      "price": 25,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -8672,7 +8672,7 @@
     },
     {
       "id": "repeatingCrossbowSimpleTip",
-      "price": 50,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -8880,7 +8880,7 @@
     },
     {
       "id": "smallBowJesterHandle",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -8896,7 +8896,7 @@
     },
     {
       "id": "smallBowJesterTip",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -8912,7 +8912,7 @@
     },
     {
       "id": "mediumBowJesterHandle",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -8928,7 +8928,7 @@
     },
     {
       "id": "mediumBowJesterTip",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -8944,7 +8944,7 @@
     },
     {
       "id": "largeBowJesterHandle",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -8960,7 +8960,7 @@
     },
     {
       "id": "largeBowJesterTip",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -8976,7 +8976,7 @@
     },
     {
       "id": "smallCrossbowJesterHandle",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -8992,7 +8992,7 @@
     },
     {
       "id": "smallCrossbowJesterTip",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9024,7 +9024,7 @@
     },
     {
       "id": "largeCrossbowJesterTip",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9056,7 +9056,7 @@
     },
     {
       "id": "repeatingCrossbowJesterTip",
-      "price": 333,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9072,7 +9072,7 @@
     },
     {
       "id": "smallBowVikingHandle",
-      "price": 350,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9088,7 +9088,7 @@
     },
     {
       "id": "smallBowVikingTip",
-      "price": 520,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9104,7 +9104,7 @@
     },
     {
       "id": "mediumBowVikingHandle",
-      "price": 350,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9120,7 +9120,7 @@
     },
     {
       "id": "mediumBowVikingTip",
-      "price": 520,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9136,7 +9136,7 @@
     },
     {
       "id": "largeBowVikingHandle",
-      "price": 350,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9152,7 +9152,7 @@
     },
     {
       "id": "largeBowVikingTip",
-      "price": 520,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9168,7 +9168,7 @@
     },
     {
       "id": "smallCrossbowVikingHandle",
-      "price": 350,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9184,7 +9184,7 @@
     },
     {
       "id": "smallCrossbowVikingTip",
-      "price": 520,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9200,7 +9200,7 @@
     },
     {
       "id": "largeCrossbowVikingHandle",
-      "price": 350,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9216,7 +9216,7 @@
     },
     {
       "id": "largeCrossbowVikingTip",
-      "price": 520,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9232,7 +9232,7 @@
     },
     {
       "id": "repeatingCrossbowVikingTip",
-      "price": 500,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9248,7 +9248,7 @@
     },
     {
       "id": "smallBowAztecHandle",
-      "price": 430,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9264,7 +9264,7 @@
     },
     {
       "id": "smallBowAztecTip",
-      "price": 220,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9280,7 +9280,7 @@
     },
     {
       "id": "mediumBowAztecHandle",
-      "price": 430,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9296,7 +9296,7 @@
     },
     {
       "id": "mediumBowAztecTip",
-      "price": 220,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9312,7 +9312,7 @@
     },
     {
       "id": "largeBowAztecHandle",
-      "price": 430,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9328,7 +9328,7 @@
     },
     {
       "id": "largeBowAztecTip",
-      "price": 220,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9344,7 +9344,7 @@
     },
     {
       "id": "smallCrossbowAztecHandle",
-      "price": 430,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9360,7 +9360,7 @@
     },
     {
       "id": "smallCrossbowAztecTip",
-      "price": 220,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9376,7 +9376,7 @@
     },
     {
       "id": "largeCrossbowAztecHandle",
-      "price": 430,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9392,7 +9392,7 @@
     },
     {
       "id": "largeCrossbowAztecTip",
-      "price": 220,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9408,7 +9408,7 @@
     },
     {
       "id": "repeatingCrossbowAztecTip",
-      "price": 200,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9424,7 +9424,7 @@
     },
     {
       "id": "repeatingCrossbowAztecHandle",
-      "price": 410,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9440,7 +9440,7 @@
     },
     {
       "id": "smallCrossbowTigerHandle",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9456,7 +9456,7 @@
     },
     {
       "id": "repeatingCrossbowTigerHandle",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9472,7 +9472,7 @@
     },
     {
       "id": "smallBowMetalHandle",
-      "price": 550,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9488,7 +9488,7 @@
     },
     {
       "id": "smallBowMetalTip",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9504,7 +9504,7 @@
     },
     {
       "id": "mediumBowMetalHandle",
-      "price": 750,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9520,7 +9520,7 @@
     },
     {
       "id": "mediumBowMetalTip",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9536,7 +9536,7 @@
     },
     {
       "id": "largeBowMetalHandle",
-      "price": 750,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9552,7 +9552,7 @@
     },
     {
       "id": "largeBowMetalTip",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9568,7 +9568,7 @@
     },
     {
       "id": "smallCrossbowMetalHandle",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9584,7 +9584,7 @@
     },
     {
       "id": "smallCrossbowMetalTip",
-      "price": 750,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9600,7 +9600,7 @@
     },
     {
       "id": "largeCrossbowMetalHandle",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9616,7 +9616,7 @@
     },
     {
       "id": "largeCrossbowMetalTip",
-      "price": 750,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9632,7 +9632,7 @@
     },
     {
       "id": "repeatingCrossbowMetalTip",
-      "price": 720,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9648,7 +9648,7 @@
     },
     {
       "id": "repeatingCrossbowMetalHandle",
-      "price": 600,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9664,7 +9664,7 @@
     },
     {
       "id": "smallBowTacticalHandle",
-      "price": 1450,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9680,7 +9680,7 @@
     },
     {
       "id": "smallBowTacticalTip",
-      "price": 40,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9696,7 +9696,7 @@
     },
     {
       "id": "mediumBowTacticalHandle",
-      "price": 1450,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9712,7 +9712,7 @@
     },
     {
       "id": "mediumBowTacticalTip",
-      "price": 40,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9728,7 +9728,7 @@
     },
     {
       "id": "largeBowTacticalHandle",
-      "price": 1450,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9744,7 +9744,7 @@
     },
     {
       "id": "largeBowTacticalTip",
-      "price": 40,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9760,7 +9760,7 @@
     },
     {
       "id": "smallCrossbowTacticalHandle",
-      "price": 550,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9776,7 +9776,7 @@
     },
     {
       "id": "smallCrossbowTacticalTip",
-      "price": 550,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9792,7 +9792,7 @@
     },
     {
       "id": "largeCrossbowTacticalHandle",
-      "price": 700,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9808,7 +9808,7 @@
     },
     {
       "id": "largeCrossbowTacticalTip",
-      "price": 700,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -9824,7 +9824,7 @@
     },
     {
       "id": "repeatingCrossbowTacticalTip",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9840,7 +9840,7 @@
     },
     {
       "id": "repeatingCrossbowTacticalHandle",
-      "price": 650,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9856,7 +9856,7 @@
     },
     {
       "id": "repeatingCrossbowVikingHandle",
-      "price": 330,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -9872,7 +9872,7 @@
     },
     {
       "id": "smallBowDragonHandle",
-      "price": 3850,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9888,7 +9888,7 @@
     },
     {
       "id": "smallBowDragonTip",
-      "price": 1850,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -9904,7 +9904,7 @@
     },
     {
       "id": "mediumBowDragonHandle",
-      "price": 3850,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9920,7 +9920,7 @@
     },
     {
       "id": "mediumBowDragonTip",
-      "price": 1850,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -9936,7 +9936,7 @@
     },
     {
       "id": "largeBowDragonHandle",
-      "price": 3850,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9952,7 +9952,7 @@
     },
     {
       "id": "largeBowDragonTip",
-      "price": 1850,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -9968,7 +9968,7 @@
     },
     {
       "id": "smallCrossbowDragonHandle",
-      "price": 1850,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -9984,7 +9984,7 @@
     },
     {
       "id": "smallCrossbowDragonTip",
-      "price": 3850,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10000,7 +10000,7 @@
     },
     {
       "id": "largeCrossbowDragonHandle",
-      "price": 1850,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10016,7 +10016,7 @@
     },
     {
       "id": "repeatingCrossbowDragonTip",
-      "price": 3800,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10032,7 +10032,7 @@
     },
     {
       "id": "largeCrossbowDragonTip",
-      "price": 3850,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10048,7 +10048,7 @@
     },
     {
       "id": "repeatingCrossbowDragonHandle",
-      "price": 1800,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10064,7 +10064,7 @@
     },
     {
       "id": "smallBowGoldenHandle",
-      "price": 4444,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -10080,7 +10080,7 @@
     },
     {
       "id": "smallBowGoldenTip",
-      "price": 2222,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -10096,7 +10096,7 @@
     },
     {
       "id": "mediumBowGoldenHandle",
-      "price": 4444,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10112,7 +10112,7 @@
     },
     {
       "id": "mediumBowGoldenTip",
-      "price": 2222,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10128,7 +10128,7 @@
     },
     {
       "id": "largeBowGoldenHandle",
-      "price": 4444,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -10144,7 +10144,7 @@
     },
     {
       "id": "largeBowGoldenTip",
-      "price": 2222,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -10160,7 +10160,7 @@
     },
     {
       "id": "smallCrossbowGoldenHandle",
-      "price": 2222,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10176,7 +10176,7 @@
     },
     {
       "id": "smallCrossbowGoldenTip",
-      "price": 4444,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10192,7 +10192,7 @@
     },
     {
       "id": "largeCrossbowGoldenHandle",
-      "price": 2222,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10208,7 +10208,7 @@
     },
     {
       "id": "largeCrossbowGoldenTip",
-      "price": 4444,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10224,7 +10224,7 @@
     },
     {
       "id": "repeatingCrossbowGoldenTip",
-      "price": 4444,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10240,7 +10240,7 @@
     },
     {
       "id": "repeatingCrossbowGoldenHandle",
-      "price": 2222,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10256,7 +10256,7 @@
     },
     {
       "id": "smallBowFearlessHandle",
-      "price": 35000,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -10272,7 +10272,7 @@
     },
     {
       "id": "smallBowFearlessTip",
-      "price": 15000,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -10288,7 +10288,7 @@
     },
     {
       "id": "mediumBowFearlessHandle",
-      "price": 35000,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10304,7 +10304,7 @@
     },
     {
       "id": "mediumBowFearlessTip",
-      "price": 15000,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10320,7 +10320,7 @@
     },
     {
       "id": "largeBowFearlessHandle",
-      "price": 35000,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -10336,7 +10336,7 @@
     },
     {
       "id": "largeBowFearlessTip",
-      "price": 15000,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -10352,7 +10352,7 @@
     },
     {
       "id": "smallCrossbowFearlessHandle",
-      "price": 25000,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10368,7 +10368,7 @@
     },
     {
       "id": "smallCrossbowFearlessTip",
-      "price": 25000,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10384,7 +10384,7 @@
     },
     {
       "id": "largeCrossbowFearlessHandle",
-      "price": 15000,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10400,7 +10400,7 @@
     },
     {
       "id": "largeCrossbowFearlessTip",
-      "price": 35000,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10416,7 +10416,7 @@
     },
     {
       "id": "repeatingCrossbowFearlessTip",
-      "price": 35000,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10432,7 +10432,7 @@
     },
     {
       "id": "repeatingCrossbowFearlessHandle",
-      "price": 15000,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10464,7 +10464,7 @@
     },
     {
       "id": "smallCrossbowChineseDragonHeadTip",
-      "price": 4000,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10480,7 +10480,7 @@
     },
     {
       "id": "smallBowChineseDragonHeadHandle",
-      "price": 4000,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -10496,7 +10496,7 @@
     },
     {
       "id": "smallCrossbowChineseDragonHandle",
-      "price": 450,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10528,7 +10528,7 @@
     },
     {
       "id": "smallBowChineseDragonTip",
-      "price": 450,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -10576,7 +10576,7 @@
     },
     {
       "id": "mediumBowChineseDragonHeadHandle",
-      "price": 4000,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10592,7 +10592,7 @@
     },
     {
       "id": "mediumBowChineseDragonHandle",
-      "price": 1300,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10608,7 +10608,7 @@
     },
     {
       "id": "mediumBowChineseDragonTip",
-      "price": 450,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10640,7 +10640,7 @@
     },
     {
       "id": "largeCrossbowChineseDragonTip",
-      "price": 450,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10656,7 +10656,7 @@
     },
     {
       "id": "largeCrossbowChineseDragonHeadTip",
-      "price": 4000,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10672,7 +10672,7 @@
     },
     {
       "id": "largeCrossbowChineseDragonHandle",
-      "price": 450,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10688,7 +10688,7 @@
     },
     {
       "id": "largeBowChineseDragonTip",
-      "price": 450,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -10720,7 +10720,7 @@
     },
     {
       "id": "largeBowChineseDragonHandle",
-      "price": 1300,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -10736,7 +10736,7 @@
     },
     {
       "id": "largeBowChineseDragonHeadHandle",
-      "price": 4000,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -10752,7 +10752,7 @@
     },
     {
       "id": "repeatingCrossbowChineseDragonTip",
-      "price": 430,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10784,7 +10784,7 @@
     },
     {
       "id": "repeatingCrossbowChineseDragonHeadTip",
-      "price": 3880,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10800,7 +10800,7 @@
     },
     {
       "id": "repeatingCrossbowChineseDragonHandle",
-      "price": 430,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10816,7 +10816,7 @@
     },
     {
       "id": "smallCrossbowGreekTip",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10832,7 +10832,7 @@
     },
     {
       "id": "smallCrossbowGreekHandle",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallCrossbow",
         "skins": [
@@ -10848,7 +10848,7 @@
     },
     {
       "id": "smallBowGreekTip",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -10864,7 +10864,7 @@
     },
     {
       "id": "smallBowGreekHandle",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "smallBow",
         "skins": [
@@ -10880,7 +10880,7 @@
     },
     {
       "id": "repeatingCrossbowGreekTip",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10896,7 +10896,7 @@
     },
     {
       "id": "repeatingCrossbowGreekHandle",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "repeatingCrossbow",
         "skins": [
@@ -10912,7 +10912,7 @@
     },
     {
       "id": "mediumBowGreekTip",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10928,7 +10928,7 @@
     },
     {
       "id": "mediumBowGreekHandle",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -10944,7 +10944,7 @@
     },
     {
       "id": "largeCrossbowGreekTip",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10960,7 +10960,7 @@
     },
     {
       "id": "largeCrossbowGreekHandle",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeCrossbow",
         "skins": [
@@ -10976,7 +10976,7 @@
     },
     {
       "id": "largeBowGreekTip",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -10992,7 +10992,7 @@
     },
     {
       "id": "largeBowGreekHandle",
-      "price": 1212,
+      "price": 1,
       "bowSkin": {
         "bowId": "largeBow",
         "skins": [
@@ -11061,7 +11061,7 @@
         "endDay": 1,
         "endMonth": 12
       },
-      "price": 999999,
+      "price": 1,
       "bowSkin": {
         "bowId": "mediumBow",
         "skins": [
@@ -11077,7 +11077,7 @@
     },
     {
       "id": "ninjaHoodDetailed",
-      "price": 490,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -11116,7 +11116,7 @@
     },
     {
       "id": "ninjaBody",
-      "price": 1120,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -11176,7 +11176,7 @@
     },
     {
       "id": "ninjaLowerArm",
-      "price": 460,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -11220,7 +11220,7 @@
     },
     {
       "id": "ninjaUpperArm",
-      "price": 250,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperArmL": [
@@ -11267,7 +11267,7 @@
     },
     {
       "id": "ninjaLeg",
-      "price": 510,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -11388,7 +11388,7 @@
     },
     {
       "id": "chineseNewYearTigerHat",
-      "price": 5000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -11436,7 +11436,7 @@
     },
     {
       "id": "hanDynastyWarriorHat",
-      "price": 160,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -11484,7 +11484,7 @@
     },
     {
       "id": "hanDynastyWarriorBody",
-      "price": 1200,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -11518,7 +11518,7 @@
     },
     {
       "id": "hanDynastyWarriorArms",
-      "price": 80,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperArmL": [
@@ -11548,7 +11548,7 @@
     },
     {
       "id": "hanDynastyWarriorWrist",
-      "price": 170,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -11594,7 +11594,7 @@
     },
     {
       "id": "hanDynastyWarriorLegs",
-      "price": 540,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -11682,7 +11682,7 @@
     },
     {
       "id": "qingDynastyTrainingGearBody",
-      "price": 180,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -11717,7 +11717,7 @@
     },
     {
       "id": "qingDynastyTrainingGearArms",
-      "price": 90,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -11838,7 +11838,7 @@
     },
     {
       "id": "qingDynastyWarriorHat",
-      "price": 1700,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -11862,7 +11862,7 @@
     },
     {
       "id": "qingDynastyWarriorArms",
-      "price": 520,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -11905,7 +11905,7 @@
     },
     {
       "id": "qingDynastyWarriorBody",
-      "price": 1700,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -11940,7 +11940,7 @@
     },
     {
       "id": "qingDynastyWarriorQuiver",
-      "price": 390,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "quiver": [
@@ -11964,7 +11964,7 @@
     },
     {
       "id": "qingDynastyWarriorLegs",
-      "price": 160,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "upperLegL": [
@@ -12034,7 +12034,7 @@
     },
     {
       "id": "tangDynastyWarriorHat",
-      "price": 1200,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -12058,7 +12058,7 @@
     },
     {
       "id": "tangDynastyWarriorBody",
-      "price": 2100,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -12093,7 +12093,7 @@
     },
     {
       "id": "tangDynastyWarriorArms",
-      "price": 280,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -12160,7 +12160,7 @@
     },
     {
       "id": "plagueDoctorTopHat",
-      "price": 350,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -12184,7 +12184,7 @@
     },
     {
       "id": "plagueDoctorHatSimple",
-      "price": 4500,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -12224,7 +12224,7 @@
     },
     {
       "id": "plagueDoctorHat",
-      "price": 7500,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -12264,7 +12264,7 @@
     },
     {
       "id": "plagueDoctorBody",
-      "price": 260,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -12311,7 +12311,7 @@
     },
     {
       "id": "plagueDoctorArms",
-      "price": 90,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -12379,7 +12379,7 @@
     },
     {
       "id": "greekOwlWarriorHat",
-      "price": 3200,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -12407,7 +12407,7 @@
     },
     {
       "id": "greekOwlWarriorArms",
-      "price": 650,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -12437,7 +12437,7 @@
     },
     {
       "id": "greekOwlWarriorHands",
-      "price": 350,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "handArmL": [
@@ -12467,7 +12467,7 @@
     },
     {
       "id": "greekOwlWarriorLegs",
-      "price": 650,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -12497,7 +12497,7 @@
     },
     {
       "id": "greekZeusHat",
-      "price": 820,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -12622,7 +12622,7 @@
     },
     {
       "id": "greekZeusLegs",
-      "price": 820,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerLegL": [
@@ -12714,7 +12714,7 @@
     },
     {
       "id": "greekWingedWarriorHat",
-      "price": 3500,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -12738,7 +12738,7 @@
     },
     {
       "id": "greekWingedWarriorBody",
-      "price": 7000,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -12810,7 +12810,7 @@
     },
     {
       "id": "greekZeusWristBand",
-      "price": 250,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "lowerArmL": [
@@ -12840,7 +12840,7 @@
     },
     {
       "id": "greekZeusFeet",
-      "price": 320,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -12870,7 +12870,7 @@
     },
     {
       "id": "greekOwlWarriorBody",
-      "price": 5400,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "torso": [
@@ -12924,7 +12924,7 @@
     },
     {
       "id": "greekWingedWarriorFeet",
-      "price": 920,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "footLegL": [
@@ -12954,7 +12954,7 @@
     },
     {
       "id": "greekOakWreathHoodedLight",
-      "price": 620,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -12978,7 +12978,7 @@
     },
     {
       "id": "greekOakWreathHoodedDark",
-      "price": 620,
+      "price": 1,
       "maleSkin": {
         "additions": {
           "head": [
@@ -13066,7 +13066,7 @@
     },
     {
       "id": "bladedLightDagger",
-      "price": 320,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedLight",
         "skin": "bladedLightDagger"
@@ -13085,7 +13085,7 @@
     },
     {
       "id": "bladedHeavyShortSword",
-      "price": 550,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyShortSword"
@@ -13119,7 +13119,7 @@
     },
     {
       "id": "bladedLightRapier",
-      "price": 2450,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedLight",
         "skin": "bladedLightRapier"
@@ -13175,7 +13175,7 @@
     },
     {
       "id": "bladedHeavyFalx",
-      "price": 980,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyFalx"
@@ -13194,7 +13194,7 @@
     },
     {
       "id": "bladedHeavyFalchionSword",
-      "price": 1500,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyFalchionSword"
@@ -13213,7 +13213,7 @@
     },
     {
       "id": "bladedHeavyKatana",
-      "price": 3200,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyKatana"
@@ -13232,7 +13232,7 @@
     },
     {
       "id": "bladedHeavyBlackKatana",
-      "price": 3600,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyBlackKatana"
@@ -13250,7 +13250,7 @@
     },
     {
       "id": "bladedHeavyTwoHandedSword",
-      "price": 1100,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyTwoHandedSword"
@@ -13303,7 +13303,7 @@
     },
     {
       "id": "bluntLightSmallMaul",
-      "price": 320,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntLight",
         "skin": "bluntLightSmallMaul"
@@ -13322,7 +13322,7 @@
     },
     {
       "id": "bluntHeavyMaul",
-      "price": 680,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntHeavy",
         "skin": "bluntHeavyMaul"
@@ -13341,7 +13341,7 @@
     },
     {
       "id": "bluntLightMace",
-      "price": 860,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntLight",
         "skin": "bluntLightMace"
@@ -13359,7 +13359,7 @@
     },
     {
       "id": "bluntLightMorningStar",
-      "price": 780,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntLight",
         "skin": "bluntLightMorningStar"
@@ -13377,7 +13377,7 @@
     },
     {
       "id": "bluntLightSpikedMace",
-      "price": 680,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntLight",
         "skin": "bluntLightSpikedMace"
@@ -13395,7 +13395,7 @@
     },
     {
       "id": "bluntLightSpikedBat",
-      "price": 590,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntLight",
         "skin": "bluntLightSpikedBat"
@@ -13414,7 +13414,7 @@
     },
     {
       "id": "bluntLightVikingAxe",
-      "price": 1050,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntLight",
         "skin": "bluntLightVikingAxe"
@@ -13432,7 +13432,7 @@
     },
     {
       "id": "bluntHeavyTwoHandedVikingAxe",
-      "price": 1250,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntHeavy",
         "skin": "bluntHeavyTwoHandedVikingAxe"
@@ -13451,7 +13451,7 @@
     },
     {
       "id": "bluntHeavyLongMace",
-      "price": 3500,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntHeavy",
         "skin": "bluntHeavyLongMace"
@@ -13470,7 +13470,7 @@
     },
     {
       "id": "bluntHeavyMorningStar",
-      "price": 4200,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntHeavy",
         "skin": "bluntHeavyMorningStar"
@@ -13522,7 +13522,7 @@
     },
     {
       "id": "pokeLightShortSpear",
-      "price": 550,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "pokeLight",
         "skin": "pokeLightShortSpear"
@@ -13558,7 +13558,7 @@
     },
     {
       "id": "pokeHeavySpear",
-      "price": 400,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "pokeHeavy",
         "skin": "pokeHeavySpear"
@@ -13576,7 +13576,7 @@
     },
     {
       "id": "pokeHeavyPilum",
-      "price": 720,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "pokeHeavy",
         "skin": "pokeHeavyPilum"
@@ -13595,7 +13595,7 @@
     },
     {
       "id": "pokeHeavyFangtianJi",
-      "price": 1650,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "pokeHeavy",
         "skin": "pokeHeavyFangtianJi"
@@ -13614,7 +13614,7 @@
     },
     {
       "id": "pokeHeavyhalberd",
-      "price": 860,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "pokeHeavy",
         "skin": "pokeHeavyhalberd"
@@ -13650,7 +13650,7 @@
     },
     {
       "id": "bluntHeavyPickaxe",
-      "price": 460,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntHeavy",
         "skin": "bluntHeavyPickaxe"
@@ -13668,7 +13668,7 @@
     },
     {
       "id": "bladedHeavyZweihander",
-      "price": 8500,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyZweihander"
@@ -13686,7 +13686,7 @@
     },
     {
       "id": "bladedHeavyFlamgberge",
-      "price": 9500,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyFlamgberge"
@@ -13704,7 +13704,7 @@
     },
     {
       "id": "pokeHeavyBarbarianSpear",
-      "price": 50000,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "pokeHeavy",
         "skin": "pokeHeavyBarbarianSpear"
@@ -13723,7 +13723,7 @@
     },
     {
       "id": "bladedHeavyBarbarianSword",
-      "price": 50000,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bladedHeavy",
         "skin": "bladedHeavyBarbarianSword"
@@ -13742,7 +13742,7 @@
     },
     {
       "id": "bluntHeavyBarbarianHammer",
-      "price": 50000,
+      "price": 1,
       "meleeSkin": {
         "meleeId": "bluntHeavy",
         "skin": "bluntHeavyBarbarianHammer"
