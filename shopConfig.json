@@ -2179,7 +2179,7 @@
 				"endDay": 1,
 				"endMonth": 11
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["pumpkinHelmet"]
@@ -2289,7 +2289,7 @@
 				"endDay": 31,
 				"endMonth": 12
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["christmasTreeHat"]
@@ -2312,7 +2312,7 @@
 				"endDay": 31,
 				"endMonth": 12
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["christmasSnowmanHat"]
@@ -2414,7 +2414,7 @@
 		},
 		{
 			"id": "strawHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["strawHat"]
@@ -2446,7 +2446,7 @@
 		},
 		{
 			"id": "headband",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["headband"]
@@ -2462,7 +2462,7 @@
 		},
 		{
 			"id": "smallHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["smallHat"]
@@ -2478,7 +2478,7 @@
 		},
 		{
 			"id": "smallHatBlack",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["smallHatBlack"]
@@ -2494,7 +2494,7 @@
 		},
 		{
 			"id": "smallHatColored",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["smallHatColored"]
@@ -2510,7 +2510,7 @@
 		},
 		{
 			"id": "peasantManHatLong",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["peasantManHatLong"]
@@ -2526,7 +2526,7 @@
 		},
 		{
 			"id": "turban",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["turban"]
@@ -2542,7 +2542,7 @@
 		},
 		{
 			"id": "hood",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["hood"]
@@ -2558,7 +2558,7 @@
 		},
 		{
 			"id": "saracenWarrior",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"torso": ["saracenWarrior"],
@@ -2650,7 +2650,7 @@
 		},
 		{
 			"id": "arabianKnightWrist",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"lowerArmL": ["arabianKnight"],
@@ -2730,7 +2730,7 @@
 				"endDay": 7,
 				"endMonth": 1
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["happyNewYearChainHat"]
@@ -2753,7 +2753,7 @@
 				"endDay": 7,
 				"endMonth": 1
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["happyNewYearBucketHat"]
@@ -2908,7 +2908,7 @@
 		},
 		{
 			"id": "vikingArmor",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"torso": ["vikingArmorPieces"],
@@ -3130,7 +3130,7 @@
 				"endDay": 15,
 				"endMonth": 2
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"torso": ["cupidoValentinesday"]
@@ -3682,7 +3682,7 @@
 		},
 		{
 			"id": "miscPunchedEye",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscPunchedEye"]
@@ -3746,7 +3746,7 @@
 		},
 		{
 			"id": "miscTribalTattoo",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscTribalTattoo"]
@@ -3904,7 +3904,7 @@
 		},
 		{
 			"id": "miscEyePatch",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscEyePatch"]
@@ -3920,7 +3920,7 @@
 		},
 		{
 			"id": "miscNinjaMask",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscNinjaMask"]
@@ -3936,7 +3936,7 @@
 		},
 		{
 			"id": "eyesRedAndBlind",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["eyesRedAndBlind"]
@@ -3958,7 +3958,7 @@
 		},
 		{
 			"id": "eyesBlind",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["eyesBlind"]
@@ -3980,7 +3980,7 @@
 		},
 		{
 			"id": "ancientEgyptHatHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["ancientEgyptHat"]
@@ -4028,7 +4028,7 @@
 		},
 		{
 			"id": "ancientEgyptArmorBody",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"torso": ["ancientEgyptArmor"],
@@ -4102,7 +4102,7 @@
 		},
 		{
 			"id": "miscBigTeeth",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscBigTeeth"]
@@ -4118,7 +4118,7 @@
 		},
 		{
 			"id": "miscVampireTeeth",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscVampireTeeth"]
@@ -4134,7 +4134,7 @@
 		},
 		{
 			"id": "miscLipsColored",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscLipsColored"]
@@ -4150,7 +4150,7 @@
 		},
 		{
 			"id": "miscLipsBlack",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscLipsBlack"]
@@ -4166,7 +4166,7 @@
 		},
 		{
 			"id": "miscLipsRed",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["miscLipsRed"]
@@ -4311,7 +4311,7 @@
 				"endDay": 18,
 				"endMonth": 3
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["StPatricksDayHat"]
@@ -4369,7 +4369,7 @@
 		},
 		{
 			"id": "flowerWristGuard",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"lowerArmL": ["flowerShirt"],
@@ -4418,7 +4418,7 @@
 		},
 		{
 			"id": "flowerDressHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["flowerDress"]
@@ -4434,7 +4434,7 @@
 		},
 		{
 			"id": "flowerDressBody",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"torso": ["flowerDress"],
@@ -4483,7 +4483,7 @@
 		},
 		{
 			"id": "settlersHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["settlersHat"]
@@ -4515,7 +4515,7 @@
 		},
 		{
 			"id": "chainmailArmorHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["chainmailArmor"]
@@ -4557,7 +4557,7 @@
 		},
 		{
 			"id": "chainmailArmorHands",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"lowerArmL": ["chainmailArmor"],
@@ -4579,7 +4579,7 @@
 		},
 		{
 			"id": "chainmailArmorLegs",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"upperLegL": ["chainmailArmor"],
@@ -4616,7 +4616,7 @@
 				"endDay": 18,
 				"endMonth": 4
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["easterRabbitHat"]
@@ -4707,7 +4707,7 @@
 		},
 		{
 			"id": "aztecOllamalitzliBody",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"torso": ["aztecOllamalitzli"]
@@ -4743,7 +4743,7 @@
 		},
 		{
 			"id": "aztecExecutionerMask",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["aztecExecutionerMask"]
@@ -4760,7 +4760,7 @@
 		},
 		{
 			"id": "aztecExecutionerBody",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"torso": ["aztecExecutioner"],
@@ -4786,7 +4786,7 @@
 		},
 		{
 			"id": "aztecExecutionerLegs",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"lowerLegL": ["aztecExecutioner"],
@@ -4993,7 +4993,7 @@
 		},
 		{
 			"id": "bowlHair",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["bowlHair"]
@@ -5011,7 +5011,7 @@
 		},
 		{
 			"id": "vikingHair",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["vikingHair"]
@@ -5047,7 +5047,7 @@
 		},
 		{
 			"id": "chonmage",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["chonmage"]
@@ -5065,7 +5065,7 @@
 		},
 		{
 			"id": "strawHatBlack",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["strawHatBlack"]
@@ -5222,7 +5222,7 @@
 		},
 		{
 			"id": "smallBowIvyHandle",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "smallBow",
 				"skins": ["smallBowIvyHandle"]
@@ -5232,7 +5232,7 @@
 		},
 		{
 			"id": "mediumBowIvyHandle",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "mediumBow",
 				"skins": ["mediumBowIvyHandle"]
@@ -5242,7 +5242,7 @@
 		},
 		{
 			"id": "largeBowIvyHandle",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "largeBow",
 				"skins": ["largeBowIvyHandle"]
@@ -5252,7 +5252,7 @@
 		},
 		{
 			"id": "smallCrossbowIvyTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "smallCrossbow",
 				"skins": ["smallCrossbowIvyTip"]
@@ -5262,7 +5262,7 @@
 		},
 		{
 			"id": "largeCrossbowIvyTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "largeCrossbow",
 				"skins": ["largeCrossbowIvyTip"]
@@ -5272,7 +5272,7 @@
 		},
 		{
 			"id": "repeatingCrossbowIvyTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "repeatingCrossbow",
 				"skins": ["repeatingCrossbowIvyTip"]
@@ -5282,7 +5282,7 @@
 		},
 		{
 			"id": "smallBowArrowPointTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "smallBow",
 				"skins": ["smallBowArrowPointTip"]
@@ -5292,7 +5292,7 @@
 		},
 		{
 			"id": "mediumBowArrowPointTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "mediumBow",
 				"skins": ["mediumBowArrowPointTip"]
@@ -5302,7 +5302,7 @@
 		},
 		{
 			"id": "largeBowArrowPointTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "largeBow",
 				"skins": ["largeBowArrowPointTip"]
@@ -5312,7 +5312,7 @@
 		},
 		{
 			"id": "smallCrossbowArrowPointTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "smallCrossbow",
 				"skins": ["smallCrossbowArrowPointTip"]
@@ -5322,7 +5322,7 @@
 		},
 		{
 			"id": "largeCrossbowArrowPointTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "largeCrossbow",
 				"skins": ["largeCrossbowArrowPointTip"]
@@ -5332,7 +5332,7 @@
 		},
 		{
 			"id": "repeatingCrossbowArrowPointTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "repeatingCrossbow",
 				"skins": ["repeatingCrossbowArrowPointTip"]
@@ -5422,7 +5422,7 @@
 		},
 		{
 			"id": "largeCrossbowJesterHandle",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "largeCrossbow",
 				"skins": ["largeCrossbowJesterHandle"]
@@ -5442,7 +5442,7 @@
 		},
 		{
 			"id": "repeatingCrossbowJesterHandle",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "repeatingCrossbow",
 				"skins": ["repeatingCrossbowJesterHandle"]
@@ -6322,7 +6322,7 @@
 		},
 		{
 			"id": "smallCrossbowChineseDragonSimpleTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "smallCrossbow",
 				"skins": ["smallCrossbowChineseDragonSimpleTip"]
@@ -6362,7 +6362,7 @@
 		},
 		{
 			"id": "smallBowChineseDragonSimpleTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "smallBow",
 				"skins": ["smallBowChineseDragonSimpleTip"]
@@ -6382,7 +6382,7 @@
 		},
 		{
 			"id": "mediumBowChineseDragonSimpleTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "mediumBow",
 				"skins": ["mediumBowChineseDragonSimpleTip"]
@@ -6392,7 +6392,7 @@
 		},
 		{
 			"id": "mediumBowChineseDragonSimpleHandle",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "mediumBow",
 				"skins": ["mediumBowChineseDragonSimpleHandle"]
@@ -6432,7 +6432,7 @@
 		},
 		{
 			"id": "largeCrossbowChineseDragonSimpleTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "largeCrossbow",
 				"skins": ["largeCrossbowChineseDragonSimpleTip"]
@@ -6482,7 +6482,7 @@
 		},
 		{
 			"id": "largeBowChineseDragonSimpleHandle",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "largeBow",
 				"skins": ["largeBowChineseDragonSimpleHandle"]
@@ -6522,7 +6522,7 @@
 		},
 		{
 			"id": "repeatingCrossbowChineseDragonSimpleTip",
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "repeatingCrossbow",
 				"skins": ["repeatingCrossbowChineseDragonSimpleTip"]
@@ -6679,7 +6679,7 @@
 				"endDay": 31,
 				"endMonth": 12
 			},
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "mediumBow",
 				"skins": ["mediumBowXmasTip"]
@@ -6696,7 +6696,7 @@
 				"endDay": 31,
 				"endMonth": 12
 			},
-
+			"hasRewardedAd": true,
 			"bowSkin": {
 				"bowId": "mediumBow",
 				"skins": ["mediumBowXmasHandle"]
@@ -6844,7 +6844,7 @@
 		},
 		{
 			"id": "ninjaHoodSimple",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["ninjaHoodSimple"]
@@ -6861,7 +6861,7 @@
 		},
 		{
 			"id": "ninjaHoodwithMask",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["ninjaHoodwithMask"]
@@ -6894,7 +6894,7 @@
 		},
 		{
 			"id": "qingDynastyEmperorHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["qingDynastyEmperorHat"]
@@ -6926,7 +6926,7 @@
 		},
 		{
 			"id": "hanDynastyWarriorHatSimpleHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["hanDynastyWarriorHatSimple"]
@@ -7042,7 +7042,7 @@
 		},
 		{
 			"id": "qingDynastyTrainingGearHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["qingDynastyTrainingGear"]
@@ -7108,7 +7108,7 @@
 		},
 		{
 			"id": "qingDynastyTrainingGearLegs",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"upperLegL": ["qingDynastyTrainingGear"],
@@ -7328,7 +7328,7 @@
 		},
 		{
 			"id": "wizardHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["wizardHat"]
@@ -7448,7 +7448,7 @@
 		},
 		{
 			"id": "medievalExecutioner",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["medievalExecutioner"]
@@ -7554,7 +7554,7 @@
 		},
 		{
 			"id": "greekZeusBody",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"torso": ["greekZeus"],
@@ -7584,7 +7584,7 @@
 		},
 		{
 			"id": "greekZeusUpperArmBrace",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"upperArmL": ["greekZeus"],
@@ -7620,7 +7620,7 @@
 		},
 		{
 			"id": "greekOakWreathHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["greekOakWreath"]
@@ -7636,7 +7636,7 @@
 		},
 		{
 			"id": "greekZeusHairSimpleHat",
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["greekZeusHairSimple"]
@@ -7834,7 +7834,7 @@
 				"endDay": 29,
 				"endMonth": 1
 			},
-
+			"hasRewardedAd": true,
 			"maleSkin": {
 				"additions": {
 					"head": ["chineseNewYearRabbitHat"]
@@ -7927,7 +7927,7 @@
 		},
 		{
 			"id": "bladedHeavyScythe",
-
+			"hasRewardedAd": true,
 			"meleeSkin": {
 				"meleeId": "bladedHeavy",
 				"skin": "bladedHeavyScythe"
@@ -7941,7 +7941,7 @@
 		},
 		{
 			"id": "bladedHeavySingleHandedSword",
-
+			"hasRewardedAd": true,
 			"meleeSkin": {
 				"meleeId": "bladedHeavy",
 				"skin": "bladedHeavySingleHandedSword"
@@ -8029,7 +8029,7 @@
 		},
 		{
 			"id": "bluntLightSpoon",
-
+			"hasRewardedAd": true,
 			"meleeSkin": {
 				"meleeId": "bluntLight",
 				"skin": "bluntLightSpoon"
@@ -8040,7 +8040,7 @@
 		},
 		{
 			"id": "bluntLightFryingPan",
-
+			"hasRewardedAd": true,
 			"meleeSkin": {
 				"meleeId": "bluntLight",
 				"skin": "bluntLightFryingPan"
@@ -8209,7 +8209,7 @@
 		},
 		{
 			"id": "pokeLightGodendag",
-
+			"hasRewardedAd": true,
 			"meleeSkin": {
 				"meleeId": "pokeLight",
 				"skin": "pokeLightGodendag"
@@ -8309,7 +8309,7 @@
 		},
 		{
 			"id": "bladedHeavyShovel",
-
+			"hasRewardedAd": true,
 			"meleeSkin": {
 				"meleeId": "bladedHeavy",
 				"skin": "bladedHeavyShovel"
