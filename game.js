@@ -41,7 +41,7 @@ import {
   x as smoothClamp,
   W as WebGLRenderer,
   y as sRGBEncoding
-} from "./colors-ae269f3f.js";
+} from "https://narrow.one/js/colors-ae269f3f.js";
 ! function () {
   function t(t, e) {
     var i = new XMLHttpRequest;
@@ -1669,7 +1669,7 @@ class AssetsManager {
   async loadWorker() {
     const {
       worker: t
-    } = await import("./assetWorkerPreload-6fc6a1f8.js");
+    } = await import("https://narrow.one/js/assetWorkerPreload-6fc6a1f8.js");
     t.addEventListener("message", (t => {
       if (t.data)
         if (t.data.requestId > 0) {
@@ -5231,10 +5231,10 @@ async function installServiceWorker() {
   if (installCalled = !0, !supported) return;
   if (getMainInstance().poki.isPokiBuild) return;
   let t;
-  t = "./sw.js";
-  const e = new URL("./sw.js", import.meta.url),
+  t = "https://narrow.one/js/sw.js";
+  const e = new URL("https://narrow.one/js/sw.js", import.meta.url),
     i = await navigator.serviceWorker.register(e.href, {
-      scope: "./"
+      scope: "https://narrow.one/js/"
     });
   registration = i, i.addEventListener("updatefound", (t => {
     const e = i.installing;
