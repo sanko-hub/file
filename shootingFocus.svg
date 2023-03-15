@@ -1,0 +1,12 @@
+<svg id="SHARPSHOOTER" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109.001 104"><title>SharpShooter</title>
+<pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">            
+<rect x="0" y="0" width="50" height="100" style="fill: black;"></rect>
+</pattern>
+<pattern id="pattern-0-0" href="#pattern-0" patternTransform="matrix(1, 0, 0, 1, 40.3305, 17.2995)"></pattern>
+<radialGradient gradientUnits="userSpaceOnUse" cx="74.925" cy="51.894" r="9.309" id="gradient-0"><stop offset="0" style="stop-color: #bada55"></stop><stop offset="1" style="stop-color: #758d29"></stop></radialGradient>
+<pattern id="pattern-0-1" href="#pattern-0" patternTransform="matrix(1, 0, 0, 1, 62.425497, 39.394499)"></pattern>
+<rect x="21.426" y="47.55" width="18.619" height="8.689" style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0);"></rect>
+<rect x="65.616" y="47.55" width="18.619" height="8.689" style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0);"></rect>
+<rect x="43.521" y="25.455" width="18.619" height="8.689" transform="translate(82.63 -23.032) rotate(90)" style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0);"></rect>
+<rect x="43.521" y="69.644" width="18.619" height="8.689" transform="translate(126.819 21.158) rotate(90)" style="fill: rgb(255, 0, 0); stroke: rgb(9, 10, 9);"></rect>
+<path d="M52.754,27.069A25.446,25.446,0,1,0,78.276,52.438,25.446,25.446,0,0,0,52.754,27.069Zm.132,43.823A18.378,18.378,0,1,1,71.208,52.459,18.378,18.378,0,0,1,52.886,70.892Z" style="fill: rgb(255, 0, 0); stroke: rgb(13, 13, 12);"></path></svg>
